@@ -1,12 +1,9 @@
 # Ashton Spalding
 # UWYO COSC 1010
-# Submission Date
+# 9/23/24
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section:16
+# used class slides
 
 
 
